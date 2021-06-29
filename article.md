@@ -1,5 +1,7 @@
 # Фантастические RecyclerView.ViewHolder и где они создаются
 
+![Фантастические RecyclerView.ViewHolder и где они создаются](headline_image.png)
+
 Давайте представим, что вы уже cоптимизировали ваш ресайклер вдоль и поперек:
 
 - setHasFixedSize(true)
