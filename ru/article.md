@@ -1,6 +1,6 @@
 # Фантастические RecyclerView.ViewHolder и где они создаются
 
-![Фантастические RecyclerView.ViewHolder и где они создаются](headline_image.png)
+![Фантастические RecyclerView.ViewHolder и где они создаются](headline_image_ru.png)
 
 Давайте представим, что вы уже cоптимизировали ваш ресайклер вдоль и поперек:
 
